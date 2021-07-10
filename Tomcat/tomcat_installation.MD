@@ -1,3 +1,4 @@
+#Latest Java version is 11
 # Tomcat installation on EC2 instance
 
 ### Pre-requisites
